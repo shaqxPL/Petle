@@ -1,0 +1,16 @@
+W javie mamy 3 podstawowe pętle: for,while,do-while.
+
+1.Składnia do for loop:
+(taką pętle for loop używamy do wielokrotnego wykonywania jakiegoś zestawu instrukcji, dopóki określony warunek nie
+zwróci wartości: false
+
+for(initialization; condition ; increment/decrement)
+{
+   statement(s);
+}
+To jest infinity loop:
+for(int i=1; i>=1; i++){
+         System.out.println("The value of i is: "+i);
+         }
+
+2.
